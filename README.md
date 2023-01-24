@@ -17,3 +17,5 @@ A special kind of account is the administrator account. The administrator would 
 access all information of the customers and the revenew of the company by looking through the
 administrator page. This page will also allow the administrator to add new items into the website and
 reset the website by resetting everything that is stored in the database.
+
+Note: Summary given in project report
